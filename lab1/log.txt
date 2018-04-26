@@ -1,0 +1,11 @@
+commit efde72ca59f5b6b8f055f1d688e7d59cc13857f9
+Author: mario.liptov@students.finki.ukim.mk <mario.liptov@students.finki.ukim.mk>
+Date:   Thu Apr 26 17:19:39 2018 +0200
+
+    modify l1.txt
+
+commit 52a15b9b3548ba416a35e35be8c598dfa5795f8e
+Author: mario.liptov@students.finki.ukim.mk <mario.liptov@students.finki.ukim.mk>
+Date:   Thu Apr 26 17:17:18 2018 +0200
+
+    Initial commit
